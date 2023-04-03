@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.content {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(img/roupanovaImg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  /* background-clip: border-box; */
+}
